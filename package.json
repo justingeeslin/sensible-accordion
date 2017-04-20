@@ -1,7 +1,7 @@
 {
-  "name": "every",
+  "name": "sensible-accordion",
   "version": "1.0.0",
-  "description": "The starting point for projects.",
+  "description": "Accordion component. Extends Expand Collapse.",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start"
@@ -9,6 +9,7 @@
   "author": "Justin Geeslin",
   "license": "ISC",
   "dependencies": {
+    "every": "git+https://github.com/justingeeslin/sensible-expandcollapse.git",
     "extend": "git+https://github.com/justingeeslin/extend.git"
   },
   "devDependencies": {
