@@ -9,8 +9,8 @@
   "author": "Justin Geeslin",
   "license": "ISC",
   "dependencies": {
-    "every": "git+https://github.com/justingeeslin/sensible-expandcollapse.git",
-    "extend": "git+https://github.com/justingeeslin/extend.git"
+    "extend": "git+https://github.com/justingeeslin/extend.git",
+    "sensible-expandcollapse": "git+https://github.com/justingeeslin/sensible-expandcollapse.git"
   },
   "devDependencies": {
     "browserify": "^14.1.0",
